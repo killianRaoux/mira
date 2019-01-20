@@ -1,0 +1,3 @@
+[submodule "mira_engine/vendor/spdlog"]
+	path = mira_engine/vendor/spdlog
+	url = https://github.com/gabime/spdlog.git
